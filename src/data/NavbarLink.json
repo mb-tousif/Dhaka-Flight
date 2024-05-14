@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "page": "Dashboard"
+    },
+    {
+        "id": "2",
+        "page": "Master Price"
+    },
+    {
+        "id": "3",
+        "page": "Custom Price"
+    },
+    {
+        "id": "4",
+        "page": "Calendar"
+    },
+    {
+        "id": "5",
+        "page": "Reports"
+    }
+]

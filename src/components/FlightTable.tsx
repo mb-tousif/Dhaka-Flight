@@ -12,7 +12,6 @@ import {
   Tag,
   Wallet,
 } from "phosphor-react";
-import Image from "next/image";
 import flightData from "@/data/FlightData.json";
 
 export const FlightTable = () => {
